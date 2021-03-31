@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2D9E01E7261492700047A0CC /* Calculation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D9E01E7261492700047A0CC /* CalculationBlue.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculationBlue.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D9E01EA261492710047A0CC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2D9E01EC261492710047A0CC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		2D9E01EE261492710047A0CC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		2D9E01E8261492700047A0CC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2D9E01E7261492700047A0CC /* Calculation.app */,
+				2D9E01E7261492700047A0CC /* CalculationBlue.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2D9E01E6261492700047A0CC /* Calculation */ = {
+		2D9E01E6261492700047A0CC /* CalculationBlue */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D9E01FB261492720047A0CC /* Build configuration list for PBXNativeTarget "Calculation" */;
+			buildConfigurationList = 2D9E01FB261492720047A0CC /* Build configuration list for PBXNativeTarget "CalculationBlue" */;
 			buildPhases = (
 				2D9E01E3261492700047A0CC /* Sources */,
 				2D9E01E4261492700047A0CC /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Calculation;
+			name = CalculationBlue;
 			productName = Calculation;
-			productReference = 2D9E01E7261492700047A0CC /* Calculation.app */;
+			productReference = 2D9E01E7261492700047A0CC /* CalculationBlue.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2D9E01E2261492700047A0CC /* Build configuration list for PBXProject "Calculation" */;
+			buildConfigurationList = 2D9E01E2261492700047A0CC /* Build configuration list for PBXProject "CalculationBlue" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2D9E01E6261492700047A0CC /* Calculation */,
+				2D9E01E6261492700047A0CC /* CalculationBlue */,
 			);
 		};
 /* End PBXProject section */
@@ -322,7 +322,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2D9E01E2261492700047A0CC /* Build configuration list for PBXProject "Calculation" */ = {
+		2D9E01E2261492700047A0CC /* Build configuration list for PBXProject "CalculationBlue" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D9E01F9261492720047A0CC /* Debug */,
@@ -331,7 +331,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D9E01FB261492720047A0CC /* Build configuration list for PBXNativeTarget "Calculation" */ = {
+		2D9E01FB261492720047A0CC /* Build configuration list for PBXNativeTarget "CalculationBlue" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D9E01FC261492720047A0CC /* Debug */,
